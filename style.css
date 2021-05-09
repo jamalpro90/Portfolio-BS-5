@@ -1,0 +1,16 @@
+:root {
+  --color2: #A1F0A1;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: var(--color2);
+}
+
+#project {
+  background-color: var(--color2);
+}
+
+section {
+  padding-top: 5rem;
+}
